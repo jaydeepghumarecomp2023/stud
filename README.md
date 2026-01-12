@@ -1,1 +1,1 @@
-# stud
+print("hello ,hi")
